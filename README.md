@@ -49,7 +49,7 @@ VisionReader is designed for situations where using your hands is inconvenient�
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vision-pdf-navigator.git
+https://github.com/soumikehassan/vision-pdf-navigator.git
 cd vision-pdf-navigator
 ```
 
